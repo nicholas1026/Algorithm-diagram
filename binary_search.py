@@ -30,7 +30,6 @@ def binary_search(list,item):
 
     return None
 
-
 my_list = make_list(20)
 
 print(my_list)
