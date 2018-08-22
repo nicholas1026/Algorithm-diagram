@@ -31,10 +31,10 @@ def binary_search(list,item):
     return None
 
 
-my_list = [1,3,5,7,9]
+my_list = make_list(20)
 
-print(make_list(20))
+print(my_list)
 
-#print(binary_search(my_list,3))
+#print(binary_search(my_list,8))
 #print(binary_search(my_list,-1))
-#print(binary_search(my_list,7))
+#print(binary_search(my_list,16))
